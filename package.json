@@ -13,9 +13,11 @@
     "react-grid-gallery": "^0.5.1",
     "react-native-image-grid": "^1.0.0",
     "react-overflow-ellipsis": "^1.0.3",
+    "react-overflow-scrolling": "^0.1.5",
     "react-resize-image": "^1.0.4",
     "react-scripts": "1.1.4",
-    "react-simple-card": "^1.0.11"
+    "react-simple-card": "^1.0.11",
+    "react-text-ellipsis": "^1.5.1"
   },
   "scripts": {
     "start": "react-scripts start",

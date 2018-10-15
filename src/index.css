@@ -14,6 +14,10 @@ body {
 	margin-top:20;
 }
 
+.search-bar button{
+    cursor: pointer;
+}
+
 .pagination {
     display: inline-block;
 }
@@ -35,4 +39,5 @@ body {
     background-color: #ddd;
     border-radius: 5px;
 }
+
 

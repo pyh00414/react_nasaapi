@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import CardList from './CardList';
-import SearchBar from './SearchBar';
-import PaginationBar from './PaginationBar';
+import CardList from './components/CardList';
+import SearchBar from './components/SearchBar';
+import PaginationBar from './components/PaginationBar';
 
 class App extends Component {
 	constructor(props) {
