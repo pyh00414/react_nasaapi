@@ -10,6 +10,6 @@ npm start
 * react: ^16.4.1
 * create-react-app
 
-## screen shot
 
+## screen shot
 <img width="1680" alt="2018-10-15 1 53 12" src="https://user-images.githubusercontent.com/26926312/46931324-a3ac3580-d085-11e8-9463-585f89653f56.png">
